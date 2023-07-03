@@ -1,17 +1,17 @@
 // Challenge 2:
-// Replace the parameters below according to your preference.
+// Replace the arguments below according to your preference.
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("regular")
+favouriteMovieGenre("space")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("regular")
+favouriteFruit("watermelon")
 
 // light, dark
-favouriteMode("light")
+favouriteMode("dark")
 
 // sharp, soft, round
-favouriteEdgeStyle("sharp")
+favouriteEdgeStyle("round")
 
 
 
@@ -85,5 +85,3 @@ function favouriteFruit(theme) {
         setProp('--dark', "#222222")
     } 
 }
-
-
